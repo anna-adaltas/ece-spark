@@ -36,7 +36,7 @@ The goals of this labs are to:
   `/user/USERNAME/taxi-streaming-output` or full path `hdfs://HDFS_SERVER_HOST/user/USERNAME/taxi-streaming-output`. 
   Creation of the directory before the run is not necessarily. It will be created automatically. 
   
-  `HOST_ADDRESS` and `PORT_NUMBER` show the resource of streaming data.
+  `HOST_ADDRESS` and `PORT_NUMBER` show the resource of streaming data. For instance: `edge-1.au.adaltas.cloud` and `11111`.
   
   
 - To stop the application using `yarn application`
